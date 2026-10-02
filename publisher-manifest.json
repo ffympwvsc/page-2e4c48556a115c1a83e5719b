@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a1aa98b554f1d8f3452f700c",
+  "owner": "ffympwvsc",
+  "repo": "page-2e4c48556a115c1a83e5719b",
+  "title": "星链(StarLink)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2e4c48556a115c1a83e5719b",
+      "a": "星链(StarLink)",
+      "b": "",
+      "entity": "星链(StarLink)",
+      "brand": "星链(StarLink)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cdff92ca94d001dc81fbed6cd7fe509f2c9ec5bcb94d15ae1f1bd6e5d491f798",
+      "content": {
+        "keyword1": "星链(StarLink)",
+        "keyword2": "",
+        "primary_entity": "星链(StarLink)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "星链(StarLink)是面向个人与团队的官方机场与VPN加速服务，提供多套餐订阅、多端客户端下载与流媒体游戏加速，欢迎访问官网获取最新节点与使用说明。",
+          "AI_DESCRIPTION": "星链(StarLink)是面向个人与团队的官方机场与VPN加速服务，提供多套餐订阅、多端客户端下载与流媒体游戏加速，欢迎访问官网获取最新节点与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;overflow-x:hidden}*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f3f4f6;color:#1f2937;line-height:1.65;font-size:16px}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}header{background:#ffffff;border-bottom:1px solid #e5e7eb;padding:12px 16px}header .bar{max-width:960px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px}.brand{font-weight:700;color:#4c1d95;font-size:1.15rem}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#5b21b6;font-size:0.95rem}.wrap{max-width:960px;margin:0 auto;padding:16px}h1{font-size:1.7rem;color:#4c1d95;margin:8px 0 12px;line-height:1.3}h2{font-size:1.35rem;color:#5b21b6;margin:28px 0 12px;padding-left:10px;border-left:4px solid #7c3aed}h3{font-size:1.08rem;color:#6d28d9;margin:16px 0 8px}p,li{margin:0 0 10px}ul{padding-left:1.2em}.lead{background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;padding:16px}.plans{display:flex;flex-wrap:wrap;gap:14px}.plan{flex:1 1 250px;background:#ffffff;border:1px solid #d1d5db;border-radius:10px;padding:18px}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.plan h3{margin-top:0}.price{font-size:1.45rem;font-weight:700;color:#6d28d9}.sub{color:#4b5563;font-size:0.92rem;margin-bottom:10px}.plan ul{margin:0;padding-left:1.1em}.step{background:#ffffff;border-radius:8px;padding:14px 16px;margin-bottom:12px;border-left:4px solid #8b5cf6}.num{display:inline-block;min-width:1.6em;font-weight:700;color:#4c1d95}details{background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;padding:10px 14px;margin-bottom:8px}summary{font-weight:600;color:#4c1d95}details p{margin:8px 0 0;color:#374151}.box{background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;padding:14px 16px;margin-bottom:12px}footer{background:#4c1d95;color:#ede9fe;padding:24px 16px;font-size:0.92rem}footer .wrap{padding:0}footer a{color:#ddd6fe}footer h2{color:#f5f3ff;border-left-color:#c4b5fd;margin-top:0}.muted{color:#c4b5fd;font-size:0.85rem;margin-top:12px}</style><header><div class=\"bar\"><div class=\"brand\">星链(StarLink) 官网</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><h1>星链(StarLink) — 官方 VPN 机场与网络加速服务</h1><p class=\"lead\">星链(StarLink)官方网站提供机场订阅、VPN 梯子与网络加速器服务。面向需要稳定跨境访问的个人与团队，节点覆盖常用地区，支持多端客户端导入订阅。本页说明套餐差异、使用场景、配置步骤与官方下载指引，便于你按设备完成加速。</p><h2 id=\"intro\">品牌简介</h2><p>星链(StarLink)定位为可订阅的机场与 VPN 加速平台，核心能力是把加密代理节点以标准订阅交付到常用客户端。服务侧重点是线路可用性、流媒体解锁层次和游戏向 IPLC 优化，而不是一次性软件安装包。用户在官网选定套餐后获取专属订阅地址，再在 Clash、Shadowrocket、Surge 等工具中更新即可切换节点。</p><p>官方身份以本站套餐公示与客户端说明为准。基础线路面向日常网页与轻量影音；旗舰线路强调原生流媒体与游戏加速；团队线路提供更高带宽与定制路由。流量按自然月结算，设备数按同时在线会话统计。不承诺突破任何法律限制，请在合规前提下使用网络加速。</p><h2 id=\"plans\">套餐对比</h2><p>以下为星链(StarLink)当前公示套餐。强调对比流量、设备数、解锁能力与支持级别，便于按实际并发选择。按年付可锁定全年单价。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"sub\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"sub\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"sub\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><h3>如何对照选择</h3><p>单人轻度浏览与基础影音选基础版。需要 Netflix 类原生解锁、低抖动游戏线路或优先响应，选旗舰版。工作室、实验室或多终端共享同一订阅时选团队版。升级即时生效，当月已用流量计入新套餐额度统计。</p><h2 id=\"scenes\">使用场景</h2><h3>跨境协作与资料访问</h3><p>远程会议、代码仓库、学术数据库与云盘同步对延迟和稳定性敏感。星链(StarLink)普通节点可承担网页与文档；需要长时间会议时建议旗舰版固定一条低丢包线路。</p><h3>流媒体与内容创作</h3><p>旗舰版与团队版强调原生流媒体解锁，适合片源核验、字幕对照和素材下载。基础版仅覆盖基础流媒体，高峰时段可能需要手动切换节点。</p><h3>游戏加速</h3><p>IPLC 专线针对对延迟敏感的对战与登录。请将游戏进程走代理或开启系统 TUN 模式，并关闭其他占用带宽的下载任务。</p><h3>差旅与多设备</h3><p>手机、笔记本同时在线时核对套餐设备上限。团队版适合共享办公，避免频繁顶号。公共 Wi-Fi 下务必开启客户端的加密与 DNS 防泄漏。</p><h2 id=\"guide\">操作说明</h2><p>按纵向步骤完成从订阅到上网，全程可在手机浏览器阅读后到电脑客户端操作。</p><div class=\"step\"><h3><span class=\"num\">1</span> 进入官网并确认套餐</h3><p>阅读本页套餐对比，确认流量、设备数与是否需要 IPLC 或原生解锁。收藏本官方网站以便核对节点公告。</p></div><div class=\"step\"><h3><span class=\"num\">2</span> 完成订阅并复制订阅地址</h3><p>在用户中心生成 Clash / 通用订阅链接。不要把订阅地址发到公开群组。如需重置链接，旧地址会失效。</p></div><div class=\"step\"><h3><span class=\"num\">3</span> 按系统准备客户端</h3><p>Windows 与 macOS 可用 Clash 系图形客户端；Android 可用 Clash Meta 类应用；iOS 可用 Shadowrocket 等商店应用。仅从你信任的应用商店或本页说明中的官方渠道获取。</p></div><div class=\"step\"><h3><span class=\"num\">4</span> 导入订阅并更新节点</h3><p>粘贴订阅 URL，开启自动更新。首次连接选择延迟较低的地区节点，再按用途切换流媒体或游戏分组。</p></div><div class=\"step\"><h3><span class=\"num\">5</span> 开启系统代理并验证</h3><p>打开 TUN 或系统代理，访问需要加速的站点。若失败，核对系统时间、关闭冲突代理、更换节点或更新内核。</p></div><h2 id=\"download\">客户端下载与配置要点</h2><div class=\"box\"><h3>官方下载指引</h3><p>星链(StarLink)以订阅为核心，不捆绑来源不明的安装包。请到各系统官方应用商店或客户端项目公布的发布页获取软件，再回到本站用户中心粘贴机场订阅。本页提供配置要点，不托管可执行文件。</p><ul><li>Windows：Clash 图形客户端，开启系统代理与规则分流。</li><li>macOS：Clash / Surge，注意网络扩展权限。</li><li>Android：Clash Meta 内核应用，建议关闭省电限制。</li><li>iOS：商店内代理工具，使用 HTTPS 订阅。</li></ul><p><a href=\"#guide\">返回操作说明</a> 按步骤导入。若商店地区限制，改用电脑端或更换商店账号地区需自行评估风险。</p></div><h2 id=\"faq\">常见问题</h2><details><summary>星链(StarLink)是机场还是传统 VPN 软件？</summary><p>星链(StarLink)以机场订阅为主：官方提供节点与流量套餐，由你在自选客户端中导入。它具备 VPN 梯子与网络加速器的使用效果，但交付方式是订阅链接而非单一封闭客户端。</p></details><details><summary>如何从官网完成客户端下载后开始加速？</summary><p>先完成套餐订阅拿到订阅地址，再按系统安装 Clash 或同类工具，导入链接并更新节点，最后开启系统代理。详细顺序见上方五步操作说明。</p></details><details><summary>三个套餐在流媒体和游戏上有何不同？</summary><p>基础版提供普通节点与基础流媒体；旗舰版含全节点原生解锁和 IPLC 游戏优化，并有优先工单；团队版在旗舰能力上增加高带宽与定制路由，适合多人同时在线。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>流量按自然月重置，用尽后加速会中断，可升级套餐补差价立即恢复更高额度。超过同时在线设备数时，新会话可能挤掉旧会话，团队场景请直接选择团队版。</p></details><details><summary>节点连不上或速度波动如何处理？</summary><p>先同步系统时间、更新订阅、更换同地区节点。公司网络若屏蔽代理端口，可尝试客户端提供的备用端口或协议。持续异常请通过套餐对应的工单渠道反馈节点名称与错误日志。</p></details><details><summary>本站是否为星链(StarLink)官方网站？</summary><p>是。请以本页公示的套餐价格、设备策略与操作说明为准获取机场订阅。不要轻信第三方代充或来路不明的客户端改装包，以免订阅泄露。</p></details><section class=\"box\" id=\"ads\"><h2>合作推广</h2><p>网络素养与客户端教程合作位：可在此阅读分流规则编写、DNS 防泄漏与公共 Wi-Fi 安全提示。推广内容仅为信息展示，不构成对第三方服务的担保。<a href=\"#\">了解分流入门</a></p></section><section class=\"box\" id=\"links\"><h2>友情链接</h2><p><a href=\"#\">代理规则说明</a> · <a href=\"#\">Clash 配置笔记</a> · <a href=\"#\">隐私保护清单</a> · <a href=\"#intro\">返回品牌简介</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2 id=\"site-map\">页面地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐对比</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#ads\">合作推广</a> · <a href=\"#links\">友情链接</a></p><p>星链(StarLink)官方网站 · 机场订阅与 VPN 网络加速器信息公示</p><p class=\"muted\">请遵守所在地法律法规使用网络服务。本页为静态说明页，套餐以实际开通页为准。</p></div></footer>",
+          "hash": "4db081764246356a0c6cfc3235d7556d9679b67523a1ce7f39b43243e220c13c",
+          "seo": {
+            "title": "星链(StarLink)官网 - 高速VPN梯子网络加速器与机场客户端下载",
+            "keywords": "星链,StarLink,星链VPN,星链机场,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,IPLC",
+            "description": "星链(StarLink)是面向个人与团队的官方机场与VPN加速服务，提供多套餐订阅、多端客户端下载与流媒体游戏加速，欢迎访问官网获取最新节点与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "trnzsqp.cn",
+    "host": "p-d3fbedab17.trnzsqp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "trnzsqp.cn",
+      "url": "https://trnzsqp.cn/",
+      "label": "白月光",
+      "apex": "trnzsqp.cn",
+      "kind": null,
+      "identity": "quoqlctin/page-6b0d25156ae05d9d7a94bb7c"
+    },
+    {
+      "host": "ptptsc.cn",
+      "url": "https://ptptsc.cn/",
+      "label": "星链(StarLink)",
+      "apex": "ptptsc.cn",
+      "kind": null,
+      "identity": "qkdt9ecd6c/page-a78a56066ba9f126f111764f"
+    },
+    {
+      "host": "sma888.cn",
+      "url": "https://sma888.cn/",
+      "label": "星链(StarLink)",
+      "apex": "sma888.cn",
+      "kind": null,
+      "identity": "emubpvtdhg/page-5b5d7811964adc9646bd127f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "32860a9e9c7686c61ef1f91fe16bc95323a6709b85e602d900131b7ae29b1f0d",
+    "sitemap.xml": "3d3f19813241536d1273a212eef6df2f6575b6e997a3c19e118737eec4ffa1cb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "22079d08bdd6440b8a5899b4ff9a50caec1eb92644c46d4614ada8952a493adf",
+    "robots.txt": "a1825c210de9ae73922376e68cfbd13a9966c297e918abeee77033da555b01b6",
+    "7ad1d8b5c17a935921dc490d6913f24f.txt": "ab505227529f0be37d8d1a21d5b43aa0a6018b4ea1f957b32d5ed1ed56214ed5"
+  },
+  "revision": "c24b49530cedf1cece4c778bc39b99238a1b5fc14175733e56b5b2595b232a63"
+}
